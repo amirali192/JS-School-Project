@@ -8,7 +8,7 @@ let school = {
             lastName: "Chahbejari",
             phone: "09172386646",
             address: "bushehr",
-            grade: "15.69"
+            grade: "15.69420"
 
         },
         S2CA: {
